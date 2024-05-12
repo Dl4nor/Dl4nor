@@ -35,7 +35,7 @@ __________________
 ### Linguagens de programação:
 
 <div style="display: inline_block;color: blue"> <br>
-  <img align="right" title="Ah, era só ponto e vírgula..." alt="Um desenho de perfil que representa a minha imagem, ficando muito confuso com um erro de código" width="20%" border="1" src="https://cdn.discordapp.com/attachments/1235359282770214978/1235359316479967272/eu.gif?ex=66341584&is=6632c404&hm=a69e617f6bb7ad78256b8c99c1c17a70408d8b99d2ddc93db619dcb2c246d149&">
+  <img align="right" title="Ah, era só ponto e vírgula..." alt="Um desenho de perfil que representa a minha imagem, ficando muito confuso com um erro de código" width="20%" border="1" src="./eu-1.gif">
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
