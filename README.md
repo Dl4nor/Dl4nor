@@ -1,5 +1,7 @@
 __________________
 
+<div style="background-color: #000000">
+
 # Bem vindo(a) 😊<br><br> Meu nome é Ronald 👾 
 
 <br>
@@ -80,4 +82,6 @@ __________________
 </h3>
 
 __________________
+
+</div>
 
