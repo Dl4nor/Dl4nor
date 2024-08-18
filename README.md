@@ -3,8 +3,8 @@
 
   <p style="font-size: 25px; font-family: system_ui"> 
   Em homenagem ao meu amigo, o responsável por me fazer criar um Github quando eu não fazia ideia do que era, me lembro da gente tentando criar nosso primeiro projeto em C++, uma maquina de vendas, a gente tentou versionar ela por mensagens e arquivos diferentes, que pesadelo que foi kk <br>
-  Lembro também que a gente teve muito problema por vc usar Linux e eu Windows, mas vc fez uma função muito boa que resolvia todos os nossos problemas, vc sempre foi genial e o maior entusiasta de Linux que eu conheci <br><br>
-  Por mais que a gente não conversou por um tempo, eu quero um dia ter a oportunidade de trocar uma ideia com vc dnv, vai fazer muita falta, não só pra mim, pra todos que vc conheceu, Miguel, irmão 🖤🐧.
+  Lembro também que a gente teve muito problema por vc usar Linux e eu Windows, mas vc fez uma função muito boa que resolvia todos os nossos problemas, vc sempre foi genial e o maior entusiasta de Linux que eu conheci, vc tinha um futuro brilhante pela frente <br><br>
+  Por mais que a gente não converse por algum tempo, eu quero um dia ter a oportunidade de trocar uma ideia com vc dnv, vai fazer muita falta, não só pra mim, pra todos que te conheceram, Miguel, irmão 🖤🐧.
   </p>
 
  </body>
