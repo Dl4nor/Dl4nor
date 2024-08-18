@@ -1,6 +1,6 @@
 __________________
 
-<div style="background-color: black; color: black">
+<div style="background-color: black; color: black; position: absolute">
 
 # Bem vindo(a) 😊<br><br> Meu nome é Ronald 👾 
 
