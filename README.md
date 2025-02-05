@@ -17,16 +17,17 @@ __________________
 
 <br>
 
+-----------------
+
 ## Sobre mim 😊
 
 <div>
-  <a href="https://www.linkedin.com/in/ronald-v-silva/">
-    <img style="display: inline_block; color: blue" align="right" border="1" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  
+  #### 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+  
+  #### 💡 Aspirante a desenvolvedor Full Stack
 
-  #### 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-
-  #### 💭 Aspirante a desenvolvimento de jogos
+  #### 💭 Interessado em criação de jogos
 
 </div>
 
@@ -55,7 +56,8 @@ __________________
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)  
+![SAP](https://img.shields.io/badge/S%2F4HANA-blue?style=for-the-badge&logo=sap&logoSize=auto&label=ABAP&labelColor=white&color=blue)
 
 ### Linguagens de marcação:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -93,6 +95,15 @@ __________________
   </ul>
 </h3>
 
+------------------
+
+## Contato:
+  <div>
+    <a href="https://www.linkedin.com/in/ronald-v-silva/">
+      <img style="height: auto; border: 1;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+  
 __________________
 
 
