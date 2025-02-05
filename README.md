@@ -23,11 +23,13 @@ __________________
 
 <div>
   
-  #### 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+  #### 🎓 Pré-Graduado em Análise e Desenvolvimento de Sistemas  
+
+  #### 💻 Experiêcnia como desenvolvedor SAP ABAP
   
   #### 💡 Aspirante a desenvolvedor Full Stack
 
-  #### 💭 Um dia ainda vou desenvolver um jogo
+  #### 💭 Explorando Game Development como hobby
 
 </div>
 
@@ -48,7 +50,7 @@ __________________
 
 ### Linguagens de programação:
 
-<div style="display: inline_block;color: blue"> <br>
+<div style="display: inline_block; color: blue; border: 1px solid green"> <br>
   <img align="right" title="Ah, era só ponto e vírgula..." alt="Um desenho de perfil que representa a minha imagem, ficando muito confuso com um erro de código" width="20%" border="1" src="./eu-1.gif">
 </div>
 
@@ -100,7 +102,10 @@ __________________
 ## Contato 📞
   <div>
     <a href="https://www.linkedin.com/in/ronald-v-silva/">
-      <img style="height: auto; border: 1;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img style="height: auto; border: 1px solid blue;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:ronald.vsilva26@gmail.com">
+      <img style="height: auto; border: 1px solid red;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail>
     </a>
   </div>
   
