@@ -27,7 +27,7 @@ __________________
   
   #### 💡 Aspirante a desenvolvedor Full Stack
 
-  #### 💭 Interessado em criação de jogos
+  #### 💭 Um dia ainda vou desenvolver um jogo
 
 </div>
 
@@ -97,7 +97,7 @@ __________________
 
 ------------------
 
-## Contato:
+## Contato 📞
   <div>
     <a href="https://www.linkedin.com/in/ronald-v-silva/">
       <img style="height: auto; border: 1;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
