@@ -51,7 +51,7 @@ __________________
 ### Linguagens de programação:
 
 <div style="display: inline_block; color: blue; border: 1px solid green"> <br>
-  <img align="right" title="Ah, era só ponto e vírgula..." alt="Um desenho de perfil que representa a minha imagem, ficando muito confuso com um erro de código" width="20%" border="1" src="eu-1.gif">
+  <img align="right" title="Ah, era só ponto e vírgula..." alt="Um desenho de perfil que representa a minha imagem, ficando muito confuso com um erro de código" width="20%" border="1" src="./eu-1.gif">
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
