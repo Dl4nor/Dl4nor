@@ -25,9 +25,9 @@ __________________
   
   #### 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
 
-  #### 💻 Experiêcnia como desenvolvedor SAP ABAP
+  #### 🧑🏻‍💻 Desenvolvedor Full Stack React + NestJs
   
-  #### 💡 Aspirante a desenvolvedor Full Stack
+  #### 💡 Experiêcnia como desenvolvedor React + NestJs & SAP ABAP
 
   #### 💭 Explorando Game Development como hobby
 
@@ -37,12 +37,20 @@ __________________
 
 ## Stats 📊
 
+<!-- 
 <div align="center">
   <a href="https://github.com/Dl4nor?tab=overview&from=2023-12-01&to=2023-12-31"> 
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dl4nor&theme=transparent&bg_color=000&border_color=191970&show_icons=true&icon_color=00CED1&title_color=00CED1&text_color=FFF"/>
     <img width="38%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dl4nor&layout=compact&bg_color=000&border_color=191970&title_color=00CED1&text_color=FFF"/>
   </a>
-</div>
+</div> 
+-->
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dl4nor&layout=compact&theme=dracula)
+![Dl4nor GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dl4nor&show_icons=true&theme=dracula)
+
+
+
 
 -----------------
 
