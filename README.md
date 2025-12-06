@@ -39,8 +39,8 @@ __________________
 
 <div align="center">
   <a href="https://github.com/Dl4nor?tab=overview"> 
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dl4nor&theme=transparent&bg_color=000&border_color=191970&show_icons=true&icon_color=00CED1&title_color=00CED1&text_color=FFF"/>
-    <img width="38%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dl4nor&layout=compact&bg_color=000&border_color=191970&title_color=00CED1&text_color=FFF"/>
+    <img width="50%" alt="Dl4nor-stats" src="https://github-readme-stats.vercel.app/api?username=Dl4nor&theme=transparent&bg_color=000&border_color=191970&show_icons=true&icon_color=00CED1&title_color=00CED1&text_color=FFF"/>
+    <img width="38%" alt="Top-langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dl4nor&layout=compact&bg_color=000&border_color=191970&title_color=00CED1&text_color=FFF"/>
   </a>
 </div> 
 
